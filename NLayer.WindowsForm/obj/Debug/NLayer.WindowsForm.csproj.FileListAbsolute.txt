@@ -1,0 +1,11 @@
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\bin\Debug\NLayer.WindowsForm.exe.config
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\bin\Debug\NLayer.WindowsForm.exe
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\bin\Debug\NLayer.WindowsForm.pdb
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\obj\Debug\NLayer.WindowsForm.csproj.AssemblyReference.cache
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\obj\Debug\NLayer.WindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\obj\Debug\NLayer.WindowsForm.Form1.resources
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\obj\Debug\NLayer.WindowsForm.Properties.Resources.resources
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\obj\Debug\NLayer.WindowsForm.csproj.GenerateResource.cache
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\obj\Debug\NLayer.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\obj\Debug\NLayer.WindowsForm.exe
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.WindowsForm\obj\Debug\NLayer.WindowsForm.pdb

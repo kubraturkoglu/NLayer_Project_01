@@ -1,0 +1,17 @@
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\bin\Debug\net6.0\ref\NLayer.Repository.dll
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CopyComplete
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+C:\Users\kbraa\source\repos\NLayer_Project_01\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
